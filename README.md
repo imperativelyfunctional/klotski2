@@ -1,16 +1,10 @@
-# klotski
+# 本期是flutter教學系列的第十期
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+# 教學內容包括：
+- 華容道 
+- flame
+- flame_audio
+- 2D遊戲設計和實現
+# 教學預期：學員可是簡單的製作遊戲碰撞偵測，挪動遊戲精靈圖片，播放背景音樂和音效。
+視頻地址：https://youtu.be/r1rhJZTJlko <br>
+頻道地址：https://www.youtube.com/channel/UCI_nzNMP4JEyJiITpJeIxYg
